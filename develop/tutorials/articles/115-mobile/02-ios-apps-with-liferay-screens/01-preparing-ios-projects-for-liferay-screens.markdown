@@ -6,7 +6,7 @@ your project supports. If your app only needs to support iOS versions
 8.0 or above, you can prepare it for Screens by adding a single line to 
 your project's `Podfile` and using CocoaPods to complete configuration. This is
 possible because Liferay Screens is released as a standard
-[CocoaPods](https://cocoapods.org) dependency. If you need to support iOS 8,
+[CocoaPods](https://cocoapods.org) dependency. If you need to support iOS versions below 8.0,
 however, then you must manually add Screens to your project. This CocoaPods
 [article](http://blog.cocoapods.org/Pod-Authors-Guide-to-CocoaPods-Frameworks)
 explains why. As you've probably guessed, manually adding Screens to your
